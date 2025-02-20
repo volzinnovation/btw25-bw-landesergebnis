@@ -21,8 +21,8 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --global user.name "volzinnovation"
-          git config --global user.email "39283695+volzinnovation@users.noreply.github.com"
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"   
           git add data/
           git commit -m "Fetched data at $(date +"%Y-%m-%d %H:%M:%S")" || echo "No changes to commit"
           git push
