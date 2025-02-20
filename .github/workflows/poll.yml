@@ -32,10 +32,10 @@ jobs:
           if [ -z "$CHANGES" ]; then
               echo "No changes."
           else
-              echo "\n" >> ../README.md
-              echo $TIMESTAMP >> ../README.md
-              echo "\n" >> ../README.md
-              echo $CHANGES >> ../README.md
+              echo "\n" >> README.md
+              echo $TIMESTAMP >> README.md
+              echo "\n" >> README.md
+              echo $CHANGES >> README.md
           fi
       - name: Commit and Push
         run: |
