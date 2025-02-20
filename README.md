@@ -9,9 +9,3 @@
 * [kreise.csv](data/latest-btw25-bw-kreise.csv)
 
 ## Neueste Wahlergebnisse
-
-*
-2025-02-20-22-41-40
-*:
-
-Backnang-Schwäbisch_Gmünd
