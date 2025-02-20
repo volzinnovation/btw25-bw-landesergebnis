@@ -25,9 +25,10 @@ jobs:
           sed -i 's/,/-/g' "data/latest-btw25-bw-gemeinden.csv"    
           sed -i 's/;/,/g' "data/latest-btw25-bw-gemeinden.csv"    
           sed -i 's/ /_/g' "data/latest-btw25-bw-gemeinden.csv"    
-          CHANGES=$(python ../analysis/latest-changes.py)
+          CHANGES=$(python analysis/latest-changes.py)
           cp "data/latest-btw25-bw-kreise.csv" "data/$TIMESTAMP-btw25-bw-kreise.csv"
           cp "data/latest-btw25-bw-gemeinden.csv" "data/$TIMESTAMP-btw25-bw-gemeinden.csv"
+          echo $CHANGES
           if [ -z "$CHANGES" ]; then
               echo "No changes."
           else
