@@ -2,7 +2,7 @@
 * CSV 
 * changed to Comma as separator for better display on Github
 * Original Comma in data changed to - 
-* Original Semicolon in data changed tp ;
+* Original Semicolon in data changed to Comma
 * Column names contain special characters and spaces
 
 # Files
