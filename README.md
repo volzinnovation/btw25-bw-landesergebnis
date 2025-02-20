@@ -9,8 +9,3 @@
 * [kreise.csv](data/latest-btw25-bw-kreise.csv)
 
 ## Neueste Wahlergebnisse
-
-\n
-2025-02-20-22-36-00
-\n
-Nürtingen Nürtingen
