@@ -2,7 +2,7 @@ Data Format CSV with Semicolon as separator
 
 Column names contain special characters and spaces:
 
-File name template Timestamp ISO 8601, e.g. 2025-02-20T10:15:30+00:00, -btw25-bw-gemeinden.csv for Gemeinden and ...-kreise.csv for Kreise
+File name template Timestamp  2025-02-20T10-15-30, -btw25-bw-gemeinden.csv for Gemeinden and ...-kreise.csv for Kreise
 
 Column structure in ...gemeinden.csv
 
