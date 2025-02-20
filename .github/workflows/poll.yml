@@ -15,7 +15,7 @@ jobs:
 
       - name: Fetch URL
         run: |
-          TIMESTAMP=$(date + "%Y-%m-%dT%H:%M:%S%:z")
+          TIMESTAMP=$(date + "%Y-%m-%dT%H:%M:%S%:%Z")
           curl -s "https://wahlen.bw-btw25.23degrees.eu/assets/kreise.csv" -o "data/$TIMESTAMP-btw25-bw-kreise.csv"
           curl -s "https://wahlen.bw-btw25.23degrees.eu/assets/gemeinden.csv" -o "data/$TIMESTAMP-btw25-bw-gemeinden.csv"
 
