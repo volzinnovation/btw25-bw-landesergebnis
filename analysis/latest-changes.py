@@ -9,7 +9,7 @@ result = subprocess.run(
 )
 
 # Filter only added (+) and removed (-) lines
-diff_lines = [line for line in result.stdout.split("\n") if line.startswith(("+", "-")) and not line.startswith(("+++", "---"))]
+diff_lines = [line for line in result.stdout.split("\n") if line.startswith(("+")) and not line.startswith(("+++"))]
 
 # Print or process the diff lines
 for line in diff_lines:
