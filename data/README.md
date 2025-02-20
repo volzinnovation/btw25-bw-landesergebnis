@@ -1,5 +1,6 @@
 # Data Format 
-* CSV 
+* CSV
+* Encoding Latin-1
 * changed to Comma as separator for better display on Github
 * Original Comma in data changed to - 
 * Original Semicolon in data changed to Comma
