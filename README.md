@@ -11,5 +11,5 @@
 
 * Daten werden ab 23.2.2025 18:00 auf https://wahlen.bw-btw25.23degrees.eu/wk/000000000/overview veröffentlicht
 * Es gibt zwei CSV Dateien für Kreise und Gemeinden
-* Diese Daten werden per Github Actions jede Minute abgerufen und im Verzeichnis data mit Zeitstempel abgespeichert
+* Diese Daten werden per Github Actions alle 6 Minuten abgerufen und im Verzeichnis data mit Zeitstempel abgespeichert
 * Im Verzeichnis analysis werden (später) eigene Auswertungen erstellt
