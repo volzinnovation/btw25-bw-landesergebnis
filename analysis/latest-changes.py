@@ -2,7 +2,10 @@ import subprocess
 
 # Run git diff with specific options
 result = subprocess.run(
-    ["git", "diff", "--unified=0"], capture_output=True, text=True
+    ["git", "diff", "--unified=0"], 
+    capture_output=True, 
+    text=True, 
+    encoding='latin-1'  
 )
 
 # Filter only added (+) and removed (-) lines
