@@ -1,8 +1,14 @@
-Data Format CSV with Semicolon as separator
+# Data Format 
+* CSV 
+* changed to Comma as separator for better display on Github
+* Original Comma in data changed to - 
+* Original Semicolon in data changed tp ;
+* Column names contain special characters and spaces
 
-Column names contain special characters and spaces:
-
-File name template Timestamp  2025-02-20T10-15-30, -btw25-bw-gemeinden.csv for Gemeinden and ...-kreise.csv for Kreise
+# Files
+* Data polled at timestamp are kept, polled automatically by Github actions at maximum frequency possible
+* File name template Timestamp  2025-02-20T10-15-30, -btw25-bw-gemeinden.csv for Gemeinden and ...-kreise.csv for Kreise
+* Latest files have git versioning
 
 Column structure in ...gemeinden.csv
 
