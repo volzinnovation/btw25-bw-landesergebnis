@@ -21,7 +21,7 @@ jobs:
           sed -i 's/,/-/g' "data/latest-btw25-bw-kreise.csv"
           sed -i 's/;/,/g' "data/latest-btw25-bw-kreise.csv"
           sed -i 's/ /_/g' "data/latest-btw25-bw-kreise.csv"
-          curl -s "https://wahlen.bw-btw25.23degrees.eu/assets/gemeinden.csv" -o "data/$TIMESTAMP-btw25-bw-gemeinden.csv"
+          curl -s "https://wahlen.bw-btw25.23degrees.eu/assets/gemeinden.csv" -o "data/latest-btw25-bw-gemeinden.csv"
           sed -i 's/,/-/g' "data/latest-btw25-bw-gemeinden.csv"    
           sed -i 's/;/,/g' "data/latest-btw25-bw-gemeinden.csv"    
           sed -i 's/ /_/g' "data/latest-btw25-bw-gemeinden.csv"    
