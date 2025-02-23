@@ -27,3 +27,9 @@ Adelberg Aichelberg Albershausen Bad_Ditzenbach Bad_Überkingen Birenbach Böhme
 
 
 Allmersbach_im_Tal Althütte Auenwald Backnang-_Stadt Burgstetten Großerlach Kirchberg_an_der_Murr Murrhardt-_Stadt Oppenweiler Spiegelberg Sulzbach_an_der_Murr Weissach_im_Tal Aspach Abtsgmünd Bartholomä Böbingen_an_der_Rems Durlangen Eschach Göggingen Gschwend Heubach-_Stadt Heuchlingen Iggingen Leinzell Lorch-_Stadt Mögglingen Mutlangen Obergröningen Ruppertshofen Schechingen Schwäbisch_Gmünd-_Stadt Spraitbach Täferrot Waldstetten Backnang-Schwäbisch_Gmünd
+
+
+2025-02-23-23-18-21
+
+
+Alfdorf Fellbach-_Stadt Kaisersbach Korb Leutenbach Plüderhausen Rudersberg Schorndorf-_Stadt Schwaikheim Urbach Waiblingen-_Stadt Welzheim-_Stadt Winnenden-_Stadt Winterbach Berglen Remshalden Weinstadt-_Stadt Kernen_im_Remstal Waiblingen
