@@ -21,3 +21,9 @@ Aidlingen Altdorf Böblingen-_Stadt Bondorf Deckenpfronn Ehningen Gärtringen G�
 
 
 Adelberg Aichelberg Albershausen Bad_Ditzenbach Bad_Überkingen Birenbach Böhmenkirch Börtlingen Bad_Boll Deggingen Donzdorf-_Stadt Drackenstein Dürnau Ebersbach_an_der_Fils-_Stadt Eislingen/Fils-_Stadt Eschenbach Gammelshausen Geislingen_an_der_Steige-_Stadt Gingen_an_der_Fils Göppingen-_Stadt Gruibingen Hattenhofen Heiningen Hohenstadt Kuchen Mühlhausen_im_Täle Ottenbach Rechberghausen Salach Schlat Schlierbach Süßen-_Stadt Uhingen-_Stadt Wäschenbeuren Wangen Wiesensteig-_Stadt Zell_unter_Aichelberg Lauterstein-_Stadt Göppingen
+
+
+2025-02-23-23-05-49
+
+
+Allmersbach_im_Tal Althütte Auenwald Backnang-_Stadt Burgstetten Großerlach Kirchberg_an_der_Murr Murrhardt-_Stadt Oppenweiler Spiegelberg Sulzbach_an_der_Murr Weissach_im_Tal Aspach Abtsgmünd Bartholomä Böbingen_an_der_Rems Durlangen Eschach Göggingen Gschwend Heubach-_Stadt Heuchlingen Iggingen Leinzell Lorch-_Stadt Mögglingen Mutlangen Obergröningen Ruppertshofen Schechingen Schwäbisch_Gmünd-_Stadt Spraitbach Täferrot Waldstetten Backnang-Schwäbisch_Gmünd
