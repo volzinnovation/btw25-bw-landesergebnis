@@ -33,3 +33,9 @@ Allmersbach_im_Tal Althütte Auenwald Backnang-_Stadt Burgstetten Großerlach Ki
 
 
 Alfdorf Fellbach-_Stadt Kaisersbach Korb Leutenbach Plüderhausen Rudersberg Schorndorf-_Stadt Schwaikheim Urbach Waiblingen-_Stadt Welzheim-_Stadt Winnenden-_Stadt Winterbach Berglen Remshalden Weinstadt-_Stadt Kernen_im_Remstal Waiblingen
+
+
+2025-02-23-23-29-48
+
+
+Weissach Asperg-_Stadt Ditzingen-_Stadt Eberdingen Gerlingen-_Stadt Hemmingen Kornwestheim-_Stadt Ludwigsburg-_Stadt Markgröningen-_Stadt Möglingen Oberriexingen-_Stadt Schwieberdingen Sersheim Vaihingen_an_der_Enz-_Stadt Korntal-Münchingen-_Stadt Remseck_am_Neckar-_Stadt Dischingen Gerstetten Giengen_an_der_Brenz-_Stadt Heidenheim_an_der_Brenz-_Stadt Herbrechtingen-_Stadt Hermaringen Königsbronn Nattheim Niederstotzingen-_Stadt Sontheim_an_der_Brenz Steinheim_am_Albuch Adelmannsfelden Bopfingen-_Stadt Ellenberg Ellwangen_(Jagst)-_Stadt Essingen Hüttlingen Jagstzell Kirchheim_am_Ries Lauchheim-_Stadt Neresheim-_Stadt Neuler Oberkochen-_Stadt Rosenberg Stödtlen Tannhausen Unterschneidheim Westhausen Wört Riesbürg Aalen-_Stadt Rainau Ludwigsburg Neckar-Zaber Aalen-Heidenheim
