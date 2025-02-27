@@ -32,12 +32,13 @@ def compare_dataframes(df_old, df_new):
             # Ignore change if the old cell is empty (NaN or empty string)
             if pd.isna(old_cell) or str(old_cell).strip() == "":
                 continue
-
-            try:
-                old_val = float(old_cell)
-                new_val = float(new_cell)
-            except (ValueError, TypeError):
-                continue  # Skip non-numeric cells
+            old_val = old_cell
+            new_val = new_cell
+            # try:
+            #    old_val = float(old_cell)
+            #    new_val = float(new_cell)
+            # except (ValueError, TypeError):
+            #    continue  # Skip non-numeric cells
 
             if old_val != new_val:
                 changes.append({
